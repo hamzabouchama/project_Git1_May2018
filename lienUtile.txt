@@ -1,0 +1,5 @@
+Lien utiles pour la compréhension de Git et Github
+
+http://blog.soat.fr/2016/12/avoir-une-bonne-strategie-avec-git-flow
+
+
