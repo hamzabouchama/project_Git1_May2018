@@ -11,3 +11,5 @@ Pour ce faire, vous devez créer un repository Git simple contenant :
 Remarques :
 
 Préteez attention à la qualité de vos messages de commit et essayez d'etre précis. Par exemple, évite des commentaires comme "commit 1", "commit2" etc. qui n'expliquent pas les modifications que vous avez effectuées.	
+
+Test : Modification depui Github 
